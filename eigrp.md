@@ -1,6 +1,6 @@
 ---
 Date: June 22, 2022
-Article: https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/16406-eigrp-toc.html
+Article: [Link](https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/16406-eigrp-toc.html)
 ---
 
 # EIGRP
@@ -35,7 +35,7 @@ Article: https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway
 ## II. Split Horizon and Poison Reverse<br>
 
 - Split Horizon: never advertise a route out the interface that route was learned.
-- Poison Reverse: when a route is learned, advertise the route as unreachable out the same interface through which is what learned.
+- Poison Reverse: when a route is learned, advertise the route as unreachable out the same interface through which that route was learned.
 
 ---
 
