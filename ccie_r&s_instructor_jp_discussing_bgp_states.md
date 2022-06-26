@@ -29,4 +29,3 @@ June 26, 2022
     - Update/keepalive resets the hold time
     - Default keepalive = 60s
     - Default hold time = 180s
-
